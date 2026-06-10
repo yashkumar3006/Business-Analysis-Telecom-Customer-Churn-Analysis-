@@ -1,4 +1,4 @@
-# Business-Analysis-Telecom-Customer-Churn-Analysis-
+# business-analysis-customer-churn
 
 ## Project Overview
 
